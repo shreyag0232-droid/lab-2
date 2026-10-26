@@ -1,3 +1,6 @@
 Hello Github
 This is a feature feature branch edit
+HEAD
 Main branch edit
+feature branch conflicting edit
+feature-branch
